@@ -1,4 +1,17 @@
- form{
+body{font-family: 'open sans', sans-serif;
+ background-image: url("moi 1.png");
+	background-size: 90%;
+	background-repeat:no-repeat;
+	background-position: bottom;
+    background-position: center;
+    background-position: ;
+    background-position:25ch 20em;
+    background-position: bottom 90px center 40px;
+   text-align: left;
+   margin: 50px;
+}
+
+form{
 background: blue;
 background: skyblue;
 top: 70%
